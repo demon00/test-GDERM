@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "vida31pro";
+	src: url("../fonts/Vida Pro/vida31pro.otf");
+	src: url("../fonts/Vida Pro/vida31pro.otf?#iefix")format("embedded-opentype"),
+	url("../fonts/Vida Pro/vida31pro.otf") format("woff"),
+	url("../fonts/Vida Pro/vida31pro.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "vida33pro"; */
+@font-face {
+	font-family: "vida33pro";
+	src: url("../fonts/Vida Pro/vida33pro.otf");
+	src: url("../fonts/Vida Pro/vida33pro.otf?#iefix")format("embedded-opentype"),
+	url("../fonts/Vida Pro/vida33pro.otf") format("woff"),
+	url("../fonts/Vida Pro/vida33pro.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
