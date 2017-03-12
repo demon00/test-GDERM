@@ -560,7 +560,7 @@
 	margin-left: 0px;
 	width: 10px;
 	height: 10px;
-	background: url("/img/spritesheet.png") no-repeat 0 0;
+	background: url("../img/spritesheet.png") no-repeat 0 0;
 	z-index: 999;
 }
 
@@ -568,7 +568,7 @@
 	position: absolute;
 	width: 89px;
 	height: 243px;
-	background: url("/img/profLine.png") no-repeat;
+	background: url("../img/spritesheet.png") no-repeat;
 	top: -100px;
 	right: 42px;
 	z-index: 99;
@@ -620,7 +620,7 @@
 	position: absolute;
 	width: 100px;
 	height: 254px;
-	background: url("/img/homeLine.png") no-repeat;
+	background: url("../img/spritesheet.png") no-repeat;
 	top: -111px;
 	right: 46px;
 	z-index: 99;
